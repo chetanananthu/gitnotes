@@ -1,1 +1,2 @@
 in this we have git notes
+new repo
